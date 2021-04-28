@@ -15,6 +15,7 @@ int b = 4;
 int c;
 
 c = Calculation(a,b);
+//promena
 
 printf("Result: %d\n", c);
 
