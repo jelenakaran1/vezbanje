@@ -1,12 +1,10 @@
 #include <stdio.h>
 
-int Calculation(int a, int b)
+void PrintResult(int res)
 {
-if(a > b)
-return a - b;
-else
-return b - a;
+printf("Result: %d\n", res);
 }
+
 
 int main()
 {
@@ -14,8 +12,7 @@ int a = 5;
 int b = 4;
 int c;
 
-c = Calculation(a,b);
-//promena
+PrintResult(c);
 
 printf("Result: %d\n", c);
 
