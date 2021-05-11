@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['high_51',['HIGH',['../pin_8h.html#a5bb885982ff66a2e0a0a45a8ee9c35e2',1,'pin.h']]]
+  ['slow_36',['SLOW',['../main_8c.html#a5da43425fff36347c69fc3c090e42c6c',1,'main.c']]],
+  ['slow_5frepetitions_37',['SLOW_REPETITIONS',['../main_8c.html#ab32eaa40c1f40f1594f108a8dea1fddd',1,'main.c']]]
 ];
